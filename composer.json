@@ -1,5 +1,5 @@
 {
-  "name": "aurora/seo",
+  "name": "galtsevt/johncms-seo",
   "description": "Seo module",
   "minimum-stability": "dev",
   "homepage": "https://johncms.com",
@@ -17,7 +17,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Aurora\\Seo\\": "src/"
+      "Galtsevt\\Seo\\": "src/"
     }
   }
 }
