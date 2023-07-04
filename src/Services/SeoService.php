@@ -1,6 +1,6 @@
 <?php
 
-namespace Aurora\Seo\Services;
+namespace Galtsevt\Seo\Services;
 
 use Illuminate\Database\Eloquent\Model;
 use Johncms\Http\Request;

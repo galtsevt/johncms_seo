@@ -1,6 +1,6 @@
 <?php
 
-namespace Aurora\Seo\Models;
+namespace Galtsevt\Seo\Models;
 
 class Seo extends \Illuminate\Database\Eloquent\Model
 {

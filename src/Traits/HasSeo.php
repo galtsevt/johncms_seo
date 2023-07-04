@@ -1,9 +1,9 @@
 <?php
 
-namespace Aurora\Seo\Traits;
+namespace Galtsevt\Seo\Traits;
 
-use Aurora\Seo\Models\Seo;
-use Aurora\Seo\Services\SeoService;
+use Galtsevt\Seo\Models\Seo;
+use Galtsevt\Seo\Services\SeoService;
 use Illuminate\Database\Eloquent\Model;
 
 trait HasSeo
